@@ -1,0 +1,9 @@
+{
+  "Machine": "Esteira Transporte",
+  "OperatingSensor": 1,
+  "IdleSensor": 0,
+  "StopSensor": 0,
+  "MotorSensor": 1,
+  "Speed": 5,
+  "MachineImage": "C:\\MachineSensorControl\\imgs\\maq1.png"
+}
