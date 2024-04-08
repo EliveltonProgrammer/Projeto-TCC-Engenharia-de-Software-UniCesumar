@@ -1,0 +1,24 @@
+{
+  "Sensors": [
+    {
+      "MachineCode": 1,
+      "Machine": "Esteira Transporte",
+      "OperatingSensor": 1,
+      "IdleSensor": 0,
+      "StopSensor": 0,
+      "MotorSensor": 1,
+      "LocationDataReading": "C:/MachineSensorControl/Sensors.json",
+      "MachineImage": "C:/MachineSensorControl/imgs/maq1.png"
+    },
+    {
+      "MachineCode": 2,
+      "Machine": "Máquina 2",
+      "OperatingSensor": 0,
+      "IdleSensor": 1,
+      "StopSensor": 0,
+      "MotorSensor": 1,
+      "LocationDataReading": "C:/MachineSensorControl/Sensors.json",
+      "MachineImage": "C:/MachineSensorControl/imgs/maq2.png"
+    }
+  ]
+}
